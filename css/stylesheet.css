@@ -8,9 +8,6 @@
 ::-webkit-scrollbar{
   display: none;
 }
-
-    
-
 .header{
     margin: 0 auto;
     text-align: center;
@@ -25,7 +22,9 @@
  margin-top: 65px;
  background-color: burlywood;
  padding-left: 30px;
+ border: solid 5px firebrick;
 }
+
 #C, #F, #k{
     width: 150px;
     height: 25px;
@@ -34,7 +33,11 @@
     font-family: 'Times New Roman', Times, serif;
     color: blanchedalmond;
 }
-
+#CF{
+ font-size: large;  
+ font-family: 'Times New Roman', Times, serif; 
+ color: wheat;
+}
 
 
 .output-container{
